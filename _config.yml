@@ -4,17 +4,17 @@
 
 
 # Name of your site (displayed in the header)
-name: 佳士工人声援团官网
+#name: 佳士工人声援团官网
 
 # Short bio or description (displayed in the header)
-description: 同战斗，共进退！
+#description: 同战斗，共进退！
 
 #
 # Flags below are optional
 #
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: https://pbs.twimg.com/profile_images/1033004258184941569/2pcCgIUK_400x400.jpg
+#avatar: https://pbs.twimg.com/profile_images/1033004258184941569/2pcCgIUK_400x400.jpg
 
 
 
@@ -44,7 +44,7 @@ footer-links:
   email:
   facebook:
   flickr:
-  github: fanduiqingchang01/fanduiqingchang01.github.io
+  github: # fanduiqingchang01/fanduiqingchang01.github.io
   googleplus: # anything in your profile username that comes after plus.google.com/
   instagram:
   linkedin:
@@ -52,7 +52,7 @@ footer-links:
   rss: # just type anything here for a working RSS icon
   stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
   tumblr: # https://<username>.tumblr.com
-  twitter: jasicworkers
+  twitter: #jasicworkers
   youtube: # channel/<your_long_string> or user/<user-name>
 
 # Text under the icons in foot
